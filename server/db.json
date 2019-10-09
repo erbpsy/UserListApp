@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Ranvijay",
+      "last_name": "Singh",
+      "age": 25,
+      "email": "user1@mail.com",
+      "profile": "web dev",
+      "address": "Noida"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Cabral",
+      "age": 27,
+      "email": "user2@mail.com",
+      "profile": "web dev",
+      "address": "Nashville"
+    },
+    {
+      "first_name": "Raj",
+      "last_name": "Kumar",
+      "age": "28",
+      "email": "rajk@gmail.com",
+      "profile": "react dev",
+      "address": "Noida",
+      "id": 3
+    },
+    {
+      "first_name": "Krish",
+      "last_name": "Moxely",
+      "age": "27",
+      "email": "bpyers@gmail.com",
+      "profile": "Web Dev",
+      "address": "Noida",
+      "id": 4
+    },
+    {
+      "first_name": "hh",
+      "last_name": "ryh",
+      "age": "23",
+      "email": "abg@mail.com",
+      "profile": "dev",
+      "address": "ghfgh",
+      "id": 5
+    },
+    {
+      "first_name": "ghgfgf",
+      "last_name": "hgfhgfh",
+      "age": "111",
+      "email": "bhanupratap.fbd@gmail.com",
+      "profile": "fgfgdf",
+      "address": "fgfdgfdgfd",
+      "id": 6
+    }
+  ]
+}
